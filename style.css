@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color:brown;
+    border: 5px dotted darkred;
+    padding: 10px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
