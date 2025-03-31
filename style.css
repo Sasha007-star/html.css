@@ -1,10 +1,33 @@
 h1 {
     text-align: center;
-    color:brown;
-    border: 5px dotted darkred;
+    color: orangered;
+    border: 5px dotted orange;
     padding: 10px;
 }
 
 body {
     background-color: blanchedalmond;
+}
+
+p {
+    text-align: center;
+    color: darkred;
+}
+
+h2 {
+    color: orangered;
+    margin-right: 30px;
+}
+
+li {
+    color: orange;
+    size: 15px;
+}
+
+img {
+    border: 15px double brown;
+}
+
+a {
+    color: darkorange;
 }
