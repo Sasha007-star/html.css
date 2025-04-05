@@ -17,6 +17,7 @@ p {
 h2 {
     color: orangered;
     margin-right: 30px;
+    font-size: 20px;
 }
 
 li {
@@ -30,4 +31,15 @@ img {
 
 a {
     color: darkorange;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.my_bio{
+    font-size: 25px;
+}
+
+section{
+    background-color: white;
+    border-radius: 15%;
 }
