@@ -16,7 +16,6 @@ p {
 
 h2 {
     color: orangered;
-    margin-right: 30px;
     font-size: 20px;
 }
 
@@ -27,6 +26,9 @@ li {
 
 img {
     border: 15px double brown;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
 }
 
 a {
@@ -41,5 +43,42 @@ a {
 
 section{
     background-color: white;
-    border-radius: 15%;
+    border: 9px lightgreen solid;
+    border-radius: 25%;
+}
+
+.fruits{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.songs{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.lessons{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.right_image{
+    margin-left: 190px;
+}
+
+.bio_you{
+    font-size: 30px;
+    color: darkgoldenrod;
 }
