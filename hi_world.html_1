@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>Візитка про мене</h1>
+    <nav>
+        <a href="hi_world_1.html" target="_blank">Головна</a>
+        <a href="hi_world_2.html" target="_blank">Додаткова</a>
+    </nav>
     <p class="my_bio">Я Саша. Звичайна дівчина 14-ти років. Живу в місті Рівне і проживаю майже спокійним життям. Та майже ніхто не знає абсолютно мене точно.</p>
     <img src = "https://catjoy.com.ua/wp-content/uploads/2020/08/036d20221d40a1c5582564755bd0effb.jpg" alt="Воєнний милий котик" width="300" height="350"><img class="right_image" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk_qFP3ltZzT5FB8lRzgtMPRhN6ZAiMnU2Q&s" alt="книжки" width="300" height="350">
     <div class="div">
@@ -45,5 +49,8 @@
 </footer>
 </html> 
 
+           
+
+        
            
             
