@@ -75,10 +75,30 @@ section{
 }
 
 .right_image{
-    margin-left: 190px;
+    margin-left: 970px;
 }
 
 .bio_you{
     font-size: 30px;
     color: darkgoldenrod;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    border: 3px solid darkgoldenrod;
+    text-align: center;
+    font-weight: 500px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a{
+    color:red;
+    text-decoration: none;
 }
