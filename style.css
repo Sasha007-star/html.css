@@ -92,6 +92,15 @@ th {
     border: 3px solid darkgoldenrod;
     text-align: center;
     font-weight: 500px;
+    background-color: bisque;
+    color:brown;
+}
+
+td{
+    border: 3px solid darkgoldenrod;
+    text-align: center;
+    font-weight: 500px;
+    margin: 25px;
 }
 
 nav {
@@ -101,4 +110,14 @@ nav {
 nav a{
     color:red;
     text-decoration: none;
+}
+
+.name{
+    background-color: bisque;
+    color:brown; 
+}
+
+.name_2{
+    background-color:blanchedalmond;
+    color: darkred;
 }
