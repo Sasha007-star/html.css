@@ -12,6 +12,7 @@ body {
 p {
     text-align: center;
     color: darkred;
+    font-size: 20px;
 }
 
 h2 {
@@ -35,6 +36,7 @@ a {
     color: darkorange;
     font-size: 20px;
     margin-left: 15px;
+    text-decoration: none;
 }
 
 .my_bio{
@@ -120,4 +122,21 @@ nav a{
 .name_2{
     background-color:blanchedalmond;
     color: darkred;
+}
+
+.films_2{
+    margin: 30px;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+.films_1{
+    margin:30px;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+.films{
+    display: flex;
+    
 }
