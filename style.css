@@ -6,23 +6,24 @@ h1 {
 }
 
 body {
-    background-color: blanchedalmond;
+    background-color: lightgoldenrodyellow;
 }
 
 p {
     text-align: center;
     color: darkred;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 h2 {
     color: orangered;
-    font-size: 20px;
+    font-size: 45px;
 }
 
 li {
     color: orange;
-    size: 15px;
+    font-size: 45px;
+    margin: 25px;
 }
 
 img {
@@ -34,7 +35,7 @@ img {
 
 a {
     color: darkorange;
-    font-size: 20px;
+    font-size: 35px;
     margin-left: 15px;
     text-decoration: none;
 }
